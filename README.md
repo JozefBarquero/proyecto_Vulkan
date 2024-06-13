@@ -3,7 +3,7 @@ This is a project I worked on creating a website for a team participating in an 
 
 ## Autor -
 **Jozéf Barquero**
-* [LinkedIn]()
+* [LinkedIn](www.linkedin.com/in/jozef-barquero)
 * [Portafolio Web]()
 
 ## Ver pagina en Vivo
